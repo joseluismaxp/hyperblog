@@ -14,6 +14,7 @@ body
     text-align: center;
     border: 1px solid #DDD;
     margin: 0 auto;
+    padding-right: 0in;
 }
 
 #container h1
